@@ -1,13 +1,31 @@
-# Experiment Data Reviewer
-A flexible experiment data storage and reviewing interface.
-## why 
-- I don't like Origin.
-- I want a speedy graphing.
-- I want more beautiful colors on my graphs.
-- I want a database where I can do more than graphing.
-- I want to learn cool programming.
-## how
-- Work a structure of data.
-- Build a MariaDB database.
-- Operate DB with SQL and python.(I'm thinking a raspberry pi is good for a portable DB device.)
-- 
+## updates
+- 2019.11.25
+folder import
+
+- 2019.11.26
+folder import and automatic sorting to use same color map
+
+
+> This is my polting tool to get rid of Origin on Windows. (and learn to programming lol)
+
+###Features
+* Device ID, Aim, Commments.
+* Read .csv.
+* Log mode and linear mode. (I-V).
+* Color map.
+* Unified designing.
+* Saving time!
+
+### File structure
+
+1. Original .CSV.
+2. 
+
+### Function structure
+
+- measurement data management (data base) -optional
+- data import
+- graphing modules (preview)
+- style modulation
+- graph export
+
